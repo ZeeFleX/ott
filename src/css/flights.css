@@ -1,0 +1,18 @@
+.flights.react-container {
+  opacity: 0.95; }
+  .flights.react-container .flightslist.react-component {
+    list-style: none;
+    padding: 0; }
+  .flights.react-container .react-datepicker__close-icon::after {
+    margin: -17px auto 0; }
+  .flights.react-container .react-datepicker__input-container {
+    width: 100%; }
+  .flights.react-container .flights-filter.react-component button {
+    margin-top: 25px;
+    width: 100%; }
+
+.react-datepicker {
+  font-size: 80%; }
+  .react-datepicker .react-datepicker__day-name, .react-datepicker .react-datepicker__day {
+    width: 2rem;
+    line-height: 2rem; }
