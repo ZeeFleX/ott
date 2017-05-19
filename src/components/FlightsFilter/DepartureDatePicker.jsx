@@ -10,7 +10,7 @@ class DepartureDatePicker extends Component {
 	render() {
 		return (
 			<div className="form-group">
-				<label className="control-label">Choose arrival date</label>
+				<label className="control-label">Choose departure date</label>
 				<DatePicker
 						dateFormat='DD MMM YYYY'
 						isClearable={true}
